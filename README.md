@@ -1,3 +1,8 @@
+<img width="714" height="1599" alt="WhatsApp Image 2026-07-03 at 10 49 27 PM" src="https://github.com/user-attachments/assets/606c2496-55af-4f04-9d56-03e7243198ef" />
+<img width="714" height="1599" alt="WhatsApp Image 2026-07-03 at 10 49 26 PM" src="https://github.com/user-attachments/assets/826c1a83-874e-4ec7-91fc-6ec6482521b2" />
+<img width="714" height="1599" alt="WhatsApp Image 2026-07-03 at 10 49 26 PM (2)" src="https://github.com/user-attachments/assets/bb4d7ecd-d341-41b7-9072-727129bf4cf3" />
+<img width="714" height="1599" alt="WhatsApp Image 2026-07-03 at 10 49 26 PM (1)" src="https://github.com/user-attachments/assets/2ba3668a-5a58-494a-b958-e7251213eb6a" />
+<img width="720" height="1612" alt="WhatsApp Image 2026-07-03 at 10 49 25 PM" src="https://github.com/user-attachments/assets/63031b68-000d-40de-8422-7f7ca4b95bcc" />
 # Smart Blind Stick for Visually Impaired Individuals
 
 ## Project Overview
